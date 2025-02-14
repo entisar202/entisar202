@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate & mentorship opportunity
 - 📫 How to reach me entumoh2010@gmail.com
 ## Certification
-![Programming Certeficate](htpp://img.shields.io/badge/Certeficate-Programming-black)
+![Programming Certeficate](htpps://img.shields.io/badge/Certeficate-Programming-black)
 
 <!---
 entisar202/entisar202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
